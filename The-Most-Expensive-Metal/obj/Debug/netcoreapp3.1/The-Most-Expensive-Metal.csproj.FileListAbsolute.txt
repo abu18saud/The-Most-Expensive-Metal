@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\bin\Debug\netcoreapp3.1\The-Most-Expensive-Metal.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\The-Most-Expensive-Metal\The-Most-Expensive-Metal\obj\Debug\netcoreapp3.1\The-Most-Expensive-Metal.genruntimeconfig.cache
